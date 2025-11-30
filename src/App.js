@@ -38,7 +38,7 @@ function App() {
 
             <p><strong>नाव:</strong> {myData.name}</p>
             <p><strong>संपर्क:</strong> {myData.contact}</p>
-
+            <p><strong>नोकरी:</strong> {myData.job}</p>
             <hr className="divider" />
             <p><strong>जन्म तारीख:</strong> {myData.birthdate}</p>
             <p><strong>जन्म वेळ:</strong> {myData.birthtime}</p>
