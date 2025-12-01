@@ -2,16 +2,16 @@ const myData = {
   photo: "/myphoto.png",
 
   // Basic
-  name: "Ajinkya Yogiraj Bhutkar",
-  contact: "8421628693",
+  name: "अजिंक्य योगीराज भुतकर",
+  contact: "+९१ ८४२१६२८६९३",
 
   // Horoscope & Personal Details
-  birthdate: "29 July 1998",
-  birthtime: "Morning 10am",
-  birthplace: "Baramati",
-  job:"Software Developer(Intouch Consumer Care Solutions Pvt. Ltd) Salary Per Annum:4.29 LPA",
-  caste: "Namdev Shimpi",
-  height: "180 cm approx",
+  birthdate: "२९ जुलै १९९८",
+  birthtime: "सकाळी १० वाजता",
+  birthplace: "बारामती",
+  job:"सॉफ्टवेअर डेव्हलपर(Intouch Consumer Care Solutions Pvt. Ltd) Salary Per Annum:4.29 LPA",
+  caste: "हिंदू नामदेव शिंपी",
+  height: "अंदाजे १८० सेंटीमीटर",
   varna: "वैश्य",
   rashi: "कन्या (सोन)",
   naadi: "आध",
@@ -20,15 +20,15 @@ const myData = {
   charan: "द्वितीय",
 
   // Family
-  motherName: "Vanita Bhutkar",
-  motherJob: "ZP Teacher",
-  sister: "Yukta Bhutkar (Teacher)",
-  mama: "Prashant Khatavkar,Baramati",
+  motherName: "वनिता भुतकर",
+  motherJob: "शिक्षिका-ज़िल्हा परिषद",
+  sister: "युक्ता भुतकर (शिक्षिका)",
+  mama: "प्रशांत खटावकर,बारामती",
 
   // Optional / extras
-  relatives: "Bhutkar,Khatavkar,Supekar,Chandole",
-  diet: "Vegeterian",
-  expectations: ""
+  relatives: "भुतकर,खटावकर,सुपेकर,चांडोले",
+  diet: "शाकाहारी",
+  expectations: "सुशिक्षित"
 };
 
 export default myData;
