@@ -1,5 +1,5 @@
 const myData = {
-  photo: "/myphoto.png",
+  photo: "https://scontent.fbom57-1.fna.fbcdn.net/v/t1.6435-9/42839901_1849228498528307_3877776571121008640_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rbYLvPfhGoUQ7kNvwGbxjIw&_nc_oc=Admc5oInkbf0141ePbh_b1DIL309xa8TLlj6br_14E43JtI8dr8ly85_acNYn40LQU4&_nc_zt=23&_nc_ht=scontent.fbom57-1.fna&_nc_gid=Qgfsl_BPYdoowETvTNm-Lw&oh=00_AfnarcJNc6WsaCue_nXrKmehOMrABprLAge3UnRadDzH9A&oe=697581A3",
 
   // Basic
   name: "सुजित सतीश शिंदे",
