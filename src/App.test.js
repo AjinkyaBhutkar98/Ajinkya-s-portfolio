@@ -28,7 +28,7 @@ function App() {
 
 
       <div className="container fade">
-        <h1 className="title">Ajinkya Bhutkar's Profile</h1>
+        <h1 className="title">Sujeet Shinde's Profile</h1>
 
         <div className="card preview fade" ref={pdfRef}>
           <h2 className="preview-title">✨ Biodata ✨</h2>
