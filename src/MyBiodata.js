@@ -2,31 +2,33 @@ const myData = {
   photo: "/myphoto.png",
 
   // Basic
-  name: "अजिंक्य योगीराज भुतकर",
-  contact: "+९१ ८४२१६२८६९३",
+  name: "सुजित सतीश शिंदे",
+  contact: "+९१ ९५५२४४३९०३ ",
 
   // Horoscope & Personal Details
-  birthdate: "२९ जुलै १९९८",
-  birthtime: "सकाळी १० वाजता",
-  birthplace: "बारामती",
-  job:"सॉफ्टवेअर डेव्हलपर(Intouch Consumer Care Solutions Pvt. Ltd) Salary Per Annum:4.29 LPA",
-  caste: "हिंदू नामदेव शिंपी",
-  height: "अंदाजे १८० सेंटीमीटर",
-  varna: "वैश्य",
-  rashi: "कन्या (सोन)",
-  naadi: "आध",
-  gan: "देव",
+  birthdate: "१९ नोव्हेंबर १९९८",
+  birthtime: "पहाटे ४.५८ वाजता",
+  birthplace: "पुणे",
+  job:"सॉफ्टवेअर डेव्हलपर (Utthunga - Product Engineering Services & Industrial Solutions Company)",
+  caste: "हिंदू मराठा ९६ कुळीी",
+  height: "५ फूट ६ इंच",
+  varna: "निमगोरा (गहूवर्ण)",
+  rashi: "वृश्चिक",
+  naadi: "मध्य",
+  gan: "देवगण",
   yoni: "महिषा",
-  charan: "द्वितीय",
+  charan: "अनुराधा",
 
   // Family
-  motherName: "वनिता भुतकर",
-  motherJob: "शिक्षिका-ज़िल्हा परिषद",
-  sister: "युक्ता भुतकर (शिक्षिका)",
+  motherName: "भारती सतीश शिंदे",
+  motherJob: "(गृहिणी)",
+  sister: "शुभम सतीश शिंदे (विवाहित)",
   mama: "प्रशांत खटावकर,बारामती",
+  father: "सतीश लक्ष्मण शिंदे (विवाहित)",
+  fatherJob: "Ex-Army सध्या Central Railway",
 
   // Optional / extras
-  relatives: "भुतकर,खटावकर,सुपेकर,चांडोले",
+  relatives: "भोसले,कदम,सस्ते,पवार,तावरे,जाधव",
   diet: "शाकाहारी",
   expectations: "सुशिक्षित"
 };
