@@ -5,7 +5,7 @@ export default function BiodataPreview({ data, goBack }) {
 
   return (
     <div className="card preview fade">
-      <h2 className="preview-title">✨ Ajinkya Bhutkar's Profile ✨</h2>
+      <h2 className="preview-title">✨ Sujeet Shinde's Profile ✨</h2>
 
       <div className="preview-block">
         <p><strong>नाव:</strong> {data.name}</p>
